@@ -4,8 +4,9 @@ import Shop from './components/Shop/Shop';
 
 function App() {
   return (
-    <div>
+    <div className='app-container'>
       <Header></Header>
+     <center><h1>Get Your Favourite Products</h1></center>
       <Shop></Shop>
     </div>
   );

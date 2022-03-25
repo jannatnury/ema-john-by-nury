@@ -1,6 +1,8 @@
 .products img{
     height: 286px;
     width: 286px;
+    display: flex;
+    align-items: center;
 }
 .products{
     height: 510px;
@@ -9,4 +11,10 @@
     font-style: normal;
     font-weight: 400;
     font-size: 21px;
+    background-color:rgb(237, 237, 248);
+    padding: 5px;
+    border-radius: 15px;
+}
+.details-container{
+    padding-left: 10px;
 }
