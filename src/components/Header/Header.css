@@ -1,0 +1,21 @@
+/* Font Awesome CDN */
+/* <script src="https://kit.fontawesome.com/3796080522.js" crossorigin="anonymous"></script> */
+.header{
+    height: 80px;
+    background-color:#1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 145px;
+    padding-right: 145px;
+
+
+}
+.header a{
+    color: white;
+    text-decoration: none;
+    margin-left: 36px;
+}
+.header a:hover{
+    color: goldenrod;
+}
