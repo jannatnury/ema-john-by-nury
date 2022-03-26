@@ -37,5 +37,9 @@
   }
 }
 .app-container{
-  background-color:white;
+  background-color: rgb(253, 251, 252);;
+}
+.app-container h1{
+  color:black;
+  margin-bottom: 0;
 }
